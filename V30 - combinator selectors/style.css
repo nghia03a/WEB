@@ -1,0 +1,10 @@
+div > p {
+  color: blue;
+}
+
+.loichuc p {
+  font-size: 30px;
+}
+block p {
+  color: yellow;
+}
