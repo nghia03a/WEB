@@ -1,0 +1,13 @@
+h2 {
+  /* vẫn tương tác được và còn chỗ chứa*/
+  /* opacity: 0.5; */
+  /* ẩn và mất luôn chỗ chứa */
+  /* display: none; */
+  /* có không gian chứa nhưng không tương tác được */
+  visibility: hidden;
+  background-color: blueviolet;
+}
+
+body {
+  background-image: url(https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/483329VcW/anh-mo-ta.png);
+}
