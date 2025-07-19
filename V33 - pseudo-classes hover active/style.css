@@ -1,0 +1,9 @@
+/* #line2:hover {
+  color: red;
+  font-size: 30px;
+} */
+
+.mouse:active {
+  color: red;
+  font-size: 50px;
+}
