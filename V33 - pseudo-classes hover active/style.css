@@ -3,7 +3,26 @@
   font-size: 30px;
 } */
 
+/* khi ấn giữ chuột */
 .mouse:active {
   color: red;
   font-size: 50px;
+}
+/* chưa truy cập link */
+.click_me:link {
+  color: chocolate;
+}
+
+/* đã truy cập link */
+.click_me:visited {
+  color: red;
+}
+
+.div_elm:empty {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+h2:target {
+  color: blue;
 }
