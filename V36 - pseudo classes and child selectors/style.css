@@ -1,0 +1,27 @@
+/* phần tử con đầu tiên */
+/* p:first-child {
+  color: red;
+  font-size: 50px;
+} */
+
+/* cuối cùng */
+/* p:last-child {
+  color: blue;
+  font-size: 50px;
+} */
+
+/* p:nth-child(2) {
+  color: pink;
+} */
+
+/* p:nth-child(even) {
+  color: aqua;
+} */
+/* 
+p:nth-last-child(2) {
+  color: aqua;
+} */
+
+p:only-child {
+  color: aquamarine;
+}
